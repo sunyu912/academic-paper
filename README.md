@@ -1,13 +1,6 @@
 # Academic Research Paper Outline
 The following is a typical outline for research papers. In this sample outline, we will use the following research problem as an example: **build a system to improve the quality of online reviews**.
 
-## Sample Papers
-These are some of the papers we have published before. Please use these as examples.
-- [Paper Sample 1](./samples/PaperSample1.pdf)
-- [Paper Sample 2](./samples/PaperSample2.pdf)
-- [Paper Sample 3](./samples/PaperSample3.pdf)
-- [Paper Sample 4](./samples/PaperSample4.pdf)
-
 ## Outline Sample
 
 1. Introduction
@@ -42,9 +35,17 @@ These are some of the papers we have published before. Please use these as examp
 
 6. Related Work
 - You need to find out the existing work and the references. You can simply search in Google Scholar (https://scholar.google.com/).
+- Make sure you have the references cited here. You want to talk about what others have done, and how yours differeniates from others.
 
 7. Conclusion and Future Work
 - Summarize again what you have done.
 - Talk about the current limitations and how do you plan to solve these limitations.
 
 8. References
+
+## Sample Papers
+These are some of the papers we have published before. Please use these as examples.
+- [Paper Sample 1](./samples/PaperSample1.pdf)
+- [Paper Sample 2](./samples/PaperSample2.pdf)
+- [Paper Sample 3](./samples/PaperSample3.pdf)
+- [Paper Sample 4](./samples/PaperSample4.pdf)
