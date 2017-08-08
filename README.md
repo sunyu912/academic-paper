@@ -28,20 +28,20 @@ The following is a typical outline for research papers. In this sample outline, 
 - Describe the step/feature 3 and the rationale behind it
 
 **5. Empirical Results**
-- In this section, you should talk about how your solution solves the problems.
+- In this section, you should talk about how your solution solves the problems. If you have done some experiments, show it with tables and charts. Otherwise, you should at least talk about how your solution helps to address these challenges.
 - Experiment 1: how your feature 1 solves the Challenge 1
 - Experiment 2: how your feature 1 solves the Challenge 2
 - Experiment 3: how your feature 1 solves the Challenge 3
 
 **6. Related Work**
-- You need to find out the existing work and the references. You can simply search in Google Scholar (https://scholar.google.com/).
+- You need to find out the existing work and the references. You can simply search some of the keywords (e.g., online review, reivew validation) in Google Scholar (https://scholar.google.com/).
 - Make sure you have the references cited here. You want to talk about what others have done, and how yours differeniates from others.
 
 **7. Conclusion and Future Work**
 - Summarize again what you have done.
 - Talk about the current limitations and how do you plan to solve these limitations.
 
-8. References
+**8. References**
 
 ## Sample Papers
 These are some of the papers we have published before. Please use these as examples.
