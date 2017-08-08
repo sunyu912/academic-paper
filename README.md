@@ -11,7 +11,7 @@ The following is a typical outline for research papers. In this sample outline, 
 - Summarize the solution you have built to solve this problem. For instance, we have developed a system to let users upload support documents to prove that the review is real, which can be verified automatically by comptuers. Also, we use machine learning to predict certain review results when there are not many reviews avaiable yet.
 - Present the organization of the rest of the paper (see the sample paper for an example).
 
-**2. Motivating Example **
+**2. Motivating Example**
 - Provides a simple example of certain Yelp review that contains the fake reviews; or certain places that do not have sufficient reviews, which makes it difficult to make the dicision for users.
 
 **3. Challenges**
