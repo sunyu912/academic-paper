@@ -3,6 +3,10 @@ The following is a typical outline for research papers. In this sample outline, 
 
 ## Sample Papers
 These are some of the papers we have published before. Please use these as examples.
+- [Paper Sample 1](./samples/PaperSample1.pdf)
+- [Paper Sample 2](./samples/PaperSample2.pdf)
+- [Paper Sample 3](./samples/PaperSample3.pdf)
+- [Paper Sample 4](./samples/PaperSample4.pdf)
 
 ## Outline Sample
 
