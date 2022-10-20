@@ -50,3 +50,9 @@ These are some of the papers we have published before. Please use these as examp
 - [Paper Sample 3](./samples/PaperSample3.pdf)
 - [Paper Sample 4](./samples/PaperSample4.pdf)
 - [Paper Sample 5](./samples/PaperSample5.pdf)
+
+# Prepare for the Conference Presentation
+
+- Please make sure you have registered the conference (finished the conference registration payment)
+- Prepare a 10-15 min presentation to go through the content of the paper, with a slide.
+- Here is a [Sample Presentation Slides](https://docs.google.com/presentation/d/1732K4uVwy12HAgOjIElLjhK-vkkzUKJBO-EYUAGFWBo/edit?usp=sharing)
